@@ -2,4 +2,4 @@
 
 a simple react clock component
 
-live demo: [clock-components](https://clock-component.netlify.app)
+live demo: [clock-component](https://clock-component.netlify.app)
